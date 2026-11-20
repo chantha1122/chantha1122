@@ -1,4 +1,4 @@
-<img width="1560" height="1641" alt="image" src="https://github.com/user-attachments/assets/9cd9cc80-dda0-48ed-9016-c67627717f3d" />## Hi there 👋
+## Hi there 👋
 
 
 - 🔭 I’m a full-stack developer passionate about building clean, performant web applications.
